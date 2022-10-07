@@ -1,0 +1,8 @@
+https://validator.w3.org/ - устаревшие свойства
+
+https://place-hold.it/ - картинки определённого размера
+
+https://cdnjs.com/libraries/font-awesome - шрифты
+
+https://fontawesome.com/icons/bars?s=solid - иконки
+
